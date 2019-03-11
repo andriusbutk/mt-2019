@@ -1,9 +1,0 @@
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\bin\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.deps.json
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\bin\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.dll
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\bin\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.pdb
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.csprojAssemblyReference.cache
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.AssemblyInfoInputs.cache
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.AssemblyInfo.cs
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.dll
-C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.Domain\obj\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.pdb
