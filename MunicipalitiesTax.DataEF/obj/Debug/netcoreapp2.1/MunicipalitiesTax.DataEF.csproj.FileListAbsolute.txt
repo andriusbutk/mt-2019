@@ -1,0 +1,14 @@
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.deps.json
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.dll
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.AssemblyInfoInputs.cache
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.AssemblyInfo.cs
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.pdb
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.dll
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.Domain.pdb
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.csprojAssemblyReference.cache
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.csproj.CopyComplete
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.dll
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\obj\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.pdb
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.runtimeconfig.json
+C:\Users\Andrius\source\repos\MunicipalitiesTax\MunicipalitiesTax.DataEF\bin\Debug\netcoreapp2.1\MunicipalitiesTax.DataEF.runtimeconfig.dev.json
