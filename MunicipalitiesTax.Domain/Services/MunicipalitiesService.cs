@@ -37,10 +37,8 @@ namespace MunicipalitiesTax.ServiceImpementation.Services
             if (model.StartDate == null)
                 throw new Exception("Wrong tax's date submitted. ");
 
-            var municipality = await _municipalitiesRepository.GetByNameAsync(model.Name);
-
-            if (municipality != null)
-                throw new Exception($"{model.Name} - municipality's name already exists. ");
+            var municipality = await _municipalitiesRepository.GetByNameAsync(model.Name) ?? throw new Exception($"{model.Name} - municipality's name already exists. ");
+            model.MunicipalityId = municipality.Id;
 
             var tax = await _municipalitiesTaxRepository.AddAsync(new MunicipalityTax(model));
 

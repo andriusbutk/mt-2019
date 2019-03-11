@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using MunicipalitiesTax.Domain.Enums;
+﻿using MunicipalitiesTax.Domain.Enums;
+using System;
 
 namespace MunicipalitiesTax.Domain.Models
 {

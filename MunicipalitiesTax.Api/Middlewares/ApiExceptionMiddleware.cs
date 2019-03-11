@@ -32,10 +32,10 @@ namespace MunicipalitiesTax.Api.Middlewares
                 context.Response.StatusCode = StatusCodes.Status500InternalServerError;
 
                 var response = new ExceptionResponse(_env.IsDevelopment());
+                response.Message = ex.Message;
 
                 if (response.IsDevelopment)
                 {
-                    response.Message = ex.Message;
                     response.StackTrace = ex.StackTrace;
                 }
 
