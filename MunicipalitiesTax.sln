@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MunicipalitiesTax.Api", "MunicipalitiesTax.Api\MunicipalitiesTax.Api.csproj", "{DE022BD7-928F-4EEE-894B-68796F76366A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalitiesTax.Domain", "MunicipalitiesTax.Domain\MunicipalitiesTax.Domain.csproj", "{E647C15A-6781-4B37-8071-9078D382CDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MunicipalitiesTax.Domain", "MunicipalitiesTax.Domain\MunicipalitiesTax.Domain.csproj", "{E647C15A-6781-4B37-8071-9078D382CDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalitiesTax.DataEF", "MunicipalitiesTax.DataEF\MunicipalitiesTax.DataEF.csproj", "{283975CA-32DC-49DE-A52D-46A3973990D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MunicipalitiesTax.DataEF", "MunicipalitiesTax.DataEF\MunicipalitiesTax.DataEF.csproj", "{283975CA-32DC-49DE-A52D-46A3973990D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

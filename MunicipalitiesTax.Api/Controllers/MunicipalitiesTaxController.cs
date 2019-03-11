@@ -26,6 +26,19 @@ namespace MunicipalitiesTax.Api.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> Update([FromBody]MunicipalityTaxUpdateDto updateMunicipality, int id) => Ok(await _municipalityService.UpdateMunicipalityTax(updateMunicipality, id));
 
+        /// <summary>
+        /// Adds new taxes from json file
+        /// </summary>
+        /// <remarks>
+        /// Sample request:
+        ///
+        ///     POST /import/json
+        ///     Content-Type: application/octet-stream
+        ///     Body: File in a binary form.    
+        ///
+        /// </remarks>
+        /// <param name="parameters"></param>
+        /// <returns>Returns Ok if everything went great</returns>
         [HttpGet("import/json")]
         public async Task<IActionResult> ImportJson()
         {
